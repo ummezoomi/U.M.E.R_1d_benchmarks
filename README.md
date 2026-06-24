@@ -1,4 +1,4 @@
-# U.M.E.R Engine — Empirical Benchmarks & Performance Validation
+# U.M.E.R Engine — Empirical Benchmarks & Performance Validation DONE ON THE P100 unless explicitly stated otherwise
 
 ![Performance](https://img.shields.io/badge/Throughput-21%2C933%20MCell%2Fs-FF1744?style=flat-square)
 ![Validation](https://img.shields.io/badge/Validation-Empirical%20Data-blue?style=flat-square)
